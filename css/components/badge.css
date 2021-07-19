@@ -1,0 +1,19 @@
+.badge{
+    background-color: tomato;
+    display:block;
+    width:28px; 
+    height:28px;
+    border-radius: 14px;
+    color:white;
+    font-weight: 600;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge-chat{
+    margin-bottom:-25px;
+    width:26px;
+    height: 26px;
+    border-radius: 13px;
+}

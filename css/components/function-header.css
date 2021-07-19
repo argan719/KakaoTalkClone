@@ -1,0 +1,27 @@
+.function-header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.fuction-header__column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.function-header__subtitle {
+  margin-top: 10px;
+  font-weight: 400;
+  display: block;
+}
+
+.more-header-main {
+  margin: 20px 0px;
+  margin-bottom: 40px;
+}
+
+.more-header {
+  color: rgba(0, 0, 0, 0.7);
+  margin: 0px 24px;
+}
